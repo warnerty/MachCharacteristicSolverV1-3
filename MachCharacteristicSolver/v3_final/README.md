@@ -168,9 +168,7 @@ The plot coordinates are relative to the expansion corner: `x - x_c` and `y - y_
 
 Python interpolates the local flow angle `theta_deg` over the plotting grid and integrates the direction field
 
-$$
-u_*=\cos\theta,\qquad v_*=\sin\theta.
-$$
+$$u_*=\cos\theta,\qquad v_*=\sin\theta.$$
 
 These unit direction components are sufficient to trace streamline geometry. They do not provide dimensional velocity magnitudes or particle travel times.
 
